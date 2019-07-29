@@ -1,0 +1,15 @@
+{
+  "name": "IBlasterus/proportionalheap",
+  "description": "Proportional Heap it's a class that obtain association array with int digit values (nodes) and perform proportional balance source value between nodes.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Aleksandr Chernyi",
+      "email": "iblasterus@gmail.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "5.7.27"
+  }
+}
